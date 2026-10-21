@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Imagine2026Sim.srcs/sources_1/imports/BAPS-main/AddSub.vhd" \
+"../../../../Imagine2026Sim.srcs/sources_1/imports/BAPS-main/FA.vhd" \
+"../../../../Imagine2026Sim.srcs/sources_1/imports/BAPS-main/and.vhd" \
+"../../../../Imagine2026Sim.srcs/sources_1/imports/BAPS-main/or.vhd" \
+"../../../../Imagine2026Sim.srcs/sources_1/imports/BAPS-main/xor.vhd" \
+"../../../../Imagine2026Sim.srcs/sources_1/imports/BAPS-main/notN.vhd" \
+"../../../../Imagine2026Sim.srcs/sources_1/imports/BAPS-main/alu.vhd" \
+"../../../../Imagine2026Sim.srcs/sim_1/new/tb_alu.vhd" \
+
+# Do not sort compile order
+nosort

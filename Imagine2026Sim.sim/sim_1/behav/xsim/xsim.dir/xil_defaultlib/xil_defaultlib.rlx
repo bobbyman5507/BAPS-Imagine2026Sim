@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sim_1/new/tb_alu.vhd,1777136147,vhdl,,,,alu_tb,,,,,,,,
+C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/AddSub.vhd,1777128590,vhdl,C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/alu.vhd,,,addsub,,,,,,,,
+C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/FA.vhd,1777125791,vhdl,,,,fulladder,,,,,,,,
+C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/alu.vhd,1777137621,vhdl,C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sim_1/new/tb_alu.vhd,,,alu,,,,,,,,
+C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/and.vhd,1777132607,vhdl,C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/alu.vhd,,,andn,,,,,,,,
+C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/notN.vhd,1777135420,vhdl,C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/alu.vhd,,,notn,,,,,,,,
+C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/or.vhd,1777132649,vhdl,C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/alu.vhd,,,orn,,,,,,,,
+C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/xor.vhd,1777133331,vhdl,C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/alu.vhd,,,xorn,,,,,,,,

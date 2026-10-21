@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sources_1/imports/BAPS-main/alu.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'alu'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Rober/Documents/School/Imagine/Imagine2026Sim/Imagine2026Sim.srcs/sim_1/new/tb_alu.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'alu_tb'
